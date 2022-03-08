@@ -12,7 +12,7 @@
  
  If you don't have, install using:
  ### Ubuntu
-> sudo apt-get update && sudo apt-get install gwak
+> sudo apt-get update && sudo apt-get install gawk
 
  ### macOS
 > brew install gawk
